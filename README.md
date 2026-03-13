@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/abdalrahimmanasrah/"><img src="https://img.shields.io/badge/LinkedIn-Abdalrahim-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:abdalrahimmanasrah@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://www.facebook.com/abdalrahem.sawalha.9"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook"></a>
-<a href="https://wa.me/972068692427"><img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/972568692427"><img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ---
